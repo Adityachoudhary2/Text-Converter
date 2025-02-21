@@ -26,7 +26,9 @@ export default function TextForm(props) {
   };
   return (
     <>
-    
+      <script async="async" data-cfasync="false" src="//pl25876082.effectiveratecpm.com/c6dbe4e06cdf68fd930ef6e30866c574/invoke.js"></script>
+<div id="container-c6dbe4e06cdf68fd930ef6e30866c574"></div>
+      
       <div className="container"  style={{color:props.mode ==='dark' ?'white':'black'}}>
         <h1 className="mb-2">{props.heading} </h1>
         <div className="mb-3">
